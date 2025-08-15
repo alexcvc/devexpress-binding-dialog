@@ -36,7 +36,7 @@ public class CollaboratorDialog : XtraForm
    /// <summary>
    ///    Represents a collection of country data used in the dialog for lookup and selection purposes.
    /// </summary>
-   private readonly IEnumerable<Country> _countries;
+   private readonly IEnumerable<Country> _countries = [];
 
    /// <summary>
    ///    Represents a <see cref="DataLayoutControl" /> used for binding and auto-generating
