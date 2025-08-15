@@ -1,15 +1,14 @@
-using System;
+﻿using System;
 using System.Windows.Forms;
 
-namespace DevExpressBindingDialog
+namespace DevExpressBindingDialog;
+
+internal static class Program
 {
-    internal static class Program
-    {
-        [STAThread]
-        static void Main()
-        {
-            ApplicationConfiguration.Initialize();
-            Application.Run(new MainForm());
-        }
-    }
+   [STAThread]
+   private static void Main()
+   {
+      ApplicationConfiguration.Initialize();
+      Application.Run(new MainForm());
+   }
 }
