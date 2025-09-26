@@ -60,14 +60,13 @@ DevExpressBindingDialog/
 
 ## Example Workflow
 
-1. Open the dialog and edit the fields.
-2. Select a country from the dropdown list.
-3. Click OK to apply changes or Continue to discard them.
+1. Open the dialogue box and edit the fields.
+2. Select a country from the drop-down list.
+3. Click OK to apply the changes or click Continue to discard them.
 
 ## License
 
-1. This sample is provided for test purposes and is not a complete application.
-   With MIT license, you can use it in your projects, but it is not intended for production use as is.
-   
-3. You must have a valid DevExpress WinForms license to build and run it.
+1. This sample is provided for testing purposes only and is not a complete application.
+You can use it in your projects under the MIT licence, but it is not intended for production use as it is.
+2. You need a valid DevExpress WinForms licence to build and run it.
 For more information, see the [DevExpress License Agreement](https://www.devexpress.com/Support/Center/Question/Details/T113204).
