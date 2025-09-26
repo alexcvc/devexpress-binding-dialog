@@ -66,6 +66,8 @@ DevExpressBindingDialog/
 
 ## License
 
-1. This sample is provided for test purposes and is not a complete application. With MIT license, you can use it in your projects, but it is not intended for production use as is. 
-2. You must have a valid DevExpress WinForms license to build and run it.
+1. This sample is provided for test purposes and is not a complete application.
+   With MIT license, you can use it in your projects, but it is not intended for production use as is.
+   
+3. You must have a valid DevExpress WinForms license to build and run it.
 For more information, see the [DevExpress License Agreement](https://www.devexpress.com/Support/Center/Question/Details/T113204).
